@@ -11,6 +11,5 @@ This is just an practice learning app for react-navigation. I have implemented t
  $ git clone https://github.com/MaharshiChetan/react-native-navigation.git
  $ cd React-Navigation-Structuring-Your-App
  $ npm install
- 
- Then start with expo xde
 ```
+Then start with expo xde
