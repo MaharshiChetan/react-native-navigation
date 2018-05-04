@@ -7,6 +7,10 @@ This is just an practice learning app for react-navigation. I have implemented t
 
 # Installation Instructions
 
-$ git clone https://github.com/nathvarun/React-Navigation-Structuring-Your-App.git
-$ cd React-Navigation-Structuring-Your-App
-$ npm install 
+```js
+ $ git clone https://github.com/MaharshiChetan/react-native-navigation.git
+ $ cd React-Navigation-Structuring-Your-App
+ $ npm install
+ 
+ Then start with expo xde
+```
